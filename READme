@@ -1,0 +1,28 @@
+# CRUD Users App
+
+Aplicação fullstack simples para gerenciamento de usuários, permitindo criar, listar e excluir registros através de uma interface web integrada a uma API.
+
+---
+
+## Tecnologias utilizadas
+
+- Node.js
+- Express
+- PostgreSQL
+- JavaScript (Frontend)
+- HTML e CSS
+
+---
+
+## Funcionalidades
+
+- Cadastro de usuários (nome e e-mail)
+- Listagem dinâmica de usuários
+- Exclusão de usuários
+- Atualização automática da interface
+- Feedback visual para ações do usuário
+
+---
+
+
+
