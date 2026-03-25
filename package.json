@@ -2,10 +2,10 @@
   "name": "aula7",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
-    "dev": "node --watch ./src/server",
-    "start": "node ./src/server"
+  "dev": "node --watch ./src/server.js",
+  "start": "node ./src/server.js"
   },
   "keywords": [],
   "author": "",
